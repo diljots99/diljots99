@@ -30,5 +30,6 @@
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diljots99&" alt="diljots99" /></p>
 
+<figure><embed src="https://wakatime.com/share/@diljots99/1e1d95da-0654-45db-9baa-494344f5544e.svg"></embed></figure>
 
               
